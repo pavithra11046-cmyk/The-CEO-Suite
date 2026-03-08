@@ -14,6 +14,7 @@ Busy leaders are often overwhelmed by "Information Noise". Important strategic n
 ​Context-Aware AI: A built-in Assistant capable of instant retrieval of categorized project and client data.
 ​Cross-Platform Accessibility: Fully functional as an installable app for both Android and iOS via PWA technology.
 ​
+
 Tech Stack
 
 ​Frontend: HTML5, CSS3 (Inter UI), JavaScript (ES6+).
